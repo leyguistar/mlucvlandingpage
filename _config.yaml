@@ -1,0 +1,5 @@
+title: UCVIA - Grupo de Inteligencia Artificial
+baseurl: "" # si se usa en raíz
+url: "https://ucvia.github.io"
+markdown: kramdown
+theme: minima
