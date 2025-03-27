@@ -1,0 +1,39 @@
+/* assets/css/main.css */
+
+/* Hero Section */
+.hero {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    padding: 120px 0;
+    color: #fff;
+  }
+  
+  .hero .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .hero-content {
+    position: relative;
+    z-index: 2;
+  }
+  
+  /* Tarjetas para secciones */
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilo general para encabezados y párrafos */
+  h1, h2, h3 {
+    margin-bottom: 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
